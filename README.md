@@ -7,7 +7,7 @@ A játék kezdetéhez a Scratchnél lévő Zöld zászlót kell megnyomni, de el
 
 Maga a Dino egy helyben áll a és csak az épületek mozognak az X tengelyen a Dino felé.
 A Dino-nak az a feladata hogy a lehető legtöbb épületet sikeresen átugorja.
-Az ugrást a SPACE billentyűzettel lehet megvalósítani.
+Az ugrást a SPACE billentyűvel lehet megvalósítani.
 Minden sikeres épület átugrása után a bal felső sarokban a Score nevű táblában növekedik a pontunk 1-el.
 Amint a Dino beleakad az épületbe a játék véget ér és a pontunk lenullázódik.
 
